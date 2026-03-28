@@ -1,2 +1,1 @@
-[tab 1(Ses.png)]
-image 1
+![tab](Ses.png)
